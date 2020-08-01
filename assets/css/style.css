@@ -1,0 +1,39 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+  
+}
+.ricomida{
+font-family: 'Lobster', cursive;
+
+}
+.btn-light{
+    border-color:skyblue;
+    }
+hr{
+    background-color: #373A3C;
+    }
+h1{
+    color: #373A3C;
+   
+    }
+.white{
+    
+    color: white;
+    }
+.center{
+    
+    text-align: center;
+    }
+.btn-danger{
+    border-color: white;
+    }
+.big{
+    font-size: 37pt;
+}
+.xbig{
+    font-size: 40pt;
+}
+.med{
+    font-size: 30pt;
+}
